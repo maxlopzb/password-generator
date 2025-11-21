@@ -49,9 +49,9 @@ p {
 }
 
 .password-container {
-  color: #55F991;
   background-color: #273549;
   width: 211px;
   height: 40px;
   border-radius: 6px;
+  text-align: center;
 }
